@@ -29,7 +29,10 @@
 ---
 
 ## 🚀 Proyectos destacados
+<div align="center">
 - [tiendaHSN-Node-React](https://github.com/joseah2004/tiendaHSN-Node-React) – Tienda online con backend en Node.js y frontend en React.
 - [proyectoAngular](https://github.com/joseah2004/proyectoAngular) – Proyecto en Angular con diseño responsive.
 - [Junit-tests-Java](https://github.com/joseah2004/Junit-tests-Java) – Pruebas unitarias en Java con JUnit.
+</div>
+
 <br><br>
