@@ -5,7 +5,6 @@
 
 ### 🛠️ Tecnologías que uso:
 
-<br><br>
 <div align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -21,15 +20,15 @@
 ---
 
 ### 📊 Estadísticas:
-<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseah2004&layout=compact&langs_count=6&theme=radical)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseah2004&layout=compact&langs_count=6&theme=radical" />
+</div>
 <br><br>
 
 ---
 
 ## 🚀 Proyectos destacados
-<br><br>
-
 - [tiendaHSN-Node-React](https://github.com/joseah2004/tiendaHSN-Node-React) – Tienda online con backend en Node.js y frontend en React.
 - [proyectoAngular](https://github.com/joseah2004/proyectoAngular) – Proyecto en Angular con diseño responsive.
 - [Junit-tests-Java](https://github.com/joseah2004/Junit-tests-Java) – Pruebas unitarias en Java con JUnit.
