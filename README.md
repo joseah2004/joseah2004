@@ -16,4 +16,3 @@
 
 ### 📊 Estadísticas:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseah2004&layout=compact&langs_count=6&theme=radical)
-![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseah2004&show_icons=true&theme=radical)
