@@ -4,6 +4,7 @@
 ---
 
 ### 🛠️ Tecnologías que uso:
+
 <br><br>
 <div align="center">
 
@@ -16,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 </div>
 <br><br>
-<br><br>
+
 ---
 
 ### 📊 Estadísticas:
