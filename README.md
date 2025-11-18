@@ -21,4 +21,7 @@
 ---
 
 ### 📊 Estadísticas:
+<br><br>
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseah2004&layout=compact&langs_count=6&theme=radical)
+</div>
