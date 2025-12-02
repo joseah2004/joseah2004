@@ -1,4 +1,8 @@
 # Hola 👋, Soy Jose A.H
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00E7FF&center=true&vCenter=true&width=600&lines=José+Angel;Web+Application+Developer;Spring+%26+React+Developer+and+much+more" />
+</p>
+
 <br><br>
 ## 🔧 Languages and Tools
 <br>
