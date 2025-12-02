@@ -2,7 +2,7 @@
 <h1>Hola 👋, Soy Jose A H</h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&pause=3000&color=800080,00FF66&center=true&vCenter=true&width=650&lines=Desarrollador+de+Aplicaciones+Web;Desarrollador+de+Angular,+Spring+y+más...;Construyendo+soluciones+que+inspiran+🚀" />  <p>Editando esto...</p>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Desarrollador+de+Aplicaciones+Web;Desarrollador+de+Angular,+Spring+y+más...;Construyendo+soluciones+que+inspiran+🚀;Visita+mi+perfil+para+ver+lo+que+hago+✨" />
 </p>
 
 
