@@ -11,10 +11,6 @@
 ## 🔧 LENGUAJES Y HERRAMIENTAS
 <br>
 <div align="center">
-
-## 🔧 Lenguajes y Herramientas
-<br>
-<div align="center">
 <p>
   <!-- Angular -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" height="45"/>
