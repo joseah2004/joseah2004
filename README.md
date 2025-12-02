@@ -39,9 +39,9 @@
 ### 🔹 GitHub Stats
 <br>
 <div align="center">
-  <p>soon...</p>
+  
+  ![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=joseah2004&show_icons=true)
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joseah2004&show_icons=true&theme=dark&border_radius=10)
 
 </div>
 
