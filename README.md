@@ -37,7 +37,7 @@
 
 <div align="center">
 
-| 🔹 Lenguajes más usados | 🔹 GitHub Streak |
+|  Lenguajes más usados   |   GitHub Streak  |
 |-------------------------|------------------|
 | ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=joseah2004&layout=compact&theme=tokyonight) | <img src="https://github-readme-streak-stats.herokuapp.com?user=joseah2004&theme=gruvbox&hide_border=true&border_radius=10" alt="GitHub Streak"/> |
 
