@@ -36,14 +36,6 @@
 
 </div>
 
-### 🔹 GitHub Stats
-<br>
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=joseah2004&show_icons=true)
-
-
-</div>
 
 ### 🔹 GitHub Streak
 <br>
