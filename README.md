@@ -58,6 +58,6 @@
 - **Intereses:** Arquitecturas limpias, validación y mapeo precisos, despliegues reproducibles  
 <br><br>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseah2004&show_icons=true&theme=radical)
 
 
