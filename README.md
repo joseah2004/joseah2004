@@ -25,6 +25,8 @@
 </div>
 <br><br>
 
+## 📊 ESTADISTICAS
+<br>
 <div align="center">
 
 | LENGUAJES USADOS | GITHUB STREAK |
@@ -38,7 +40,7 @@
 
 
 <br><br>
-## 👨‍💻 Sobre mí
+## 👨‍💻 SOBRE MI
 - **Rol:** Desarrollador de Aplicaciones web  
 - **Stack principal:** Java, Spring, HTML/CSS, JavaScript, React, Angular  
 - **Intereses:** Arquitecturas limpias, validación y mapeo precisos, despliegues reproducibles  
