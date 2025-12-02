@@ -43,8 +43,6 @@
 
 </div>
 
-
-### 🔹 GitHub Streak
 ### 🔹 GitHub Streak
 <br>
 <div align="center">
@@ -62,12 +60,7 @@
 
 ## 🐍 Mi contribución convertida en Snake
 
-![GitHub Snake Light](https://github.com/joseah2004/joseah2004/blob/output/snake-light.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/joseah2004/joseah2004/blob/output/snake-dark.svg#gh-dark-mode-only)
 
-![GitHub Snake](https://raw.githubusercontent.com/joseah2004/joseah2004/output/snake.svg)
-![Followers](https://img.shields.io/github/followers/joseah2004?style=social)
-![Stars](https://img.shields.io/github/stars/joseah2004?style=social)
 ![Visitor Count](https://komarev.com/ghpvc/?username=joseah2004&color=blue)
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
