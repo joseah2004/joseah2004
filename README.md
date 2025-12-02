@@ -52,7 +52,6 @@
 
 <br><br>
 ## 👨‍💻 Sobre mí
-<br>
 - **Rol:** Desarrollador de Aplicaciones web  
 - **Stack principal:** Java, Spring, HTML/CSS, JavaScript, React, Angular  
 - **Intereses:** Arquitecturas limpias, validación y mapeo precisos, despliegues reproducibles  
