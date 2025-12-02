@@ -47,7 +47,8 @@
 ### 🔹 GitHub Streak
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=joseah2004&hide_border=true&theme=gruvbox" alt="GitHub Streak"/>
+  
+![GitHub Snake](https://raw.githubusercontent.com/joseah2004/joseah2004/output/snake.svg)
 </div>
 
 
