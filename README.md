@@ -24,7 +24,7 @@
 </p>
 </div>
 <br><br>
-## 📊 Estadísticas
+### 📊 Estadísticas
 
 ### 🔹 Most Used Languages (Top Langs)
 <div align="center">
