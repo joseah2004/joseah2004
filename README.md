@@ -61,5 +61,6 @@
 
 ## 🐍 Mi contribución convertida en Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/joseah2004/joseah2004/output/snake-light.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/joseah2004/joseah2004/output/snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/joseah2004/joseah2004/blob/output/snake-light.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/joseah2004/joseah2004/blob/output/snake-dark.svg#gh-dark-mode-only)
+
