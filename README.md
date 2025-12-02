@@ -1,10 +1,10 @@
 # Hola 👋, Soy José
 
-Soy profesor/Desarrollador de Informática especializado en Frontend y Backend. Me apasiona crear interfaces limpias y lógicas sólidas con validación robusta, y trabajar con arquitecturas bien estructuradas.
+Soy profesor y desarrollador de Informática especializado en Frontend y Backend. Me apasiona crear interfaces limpias y lógicas sólidas con validación robusta, y trabajar con arquitecturas bien estructuradas.
 
 ---
 
-## Languages and Tools:
+## 🔧 Languages and Tools
 
 <p align="left">
   <!-- Contenedores -->
@@ -15,7 +15,7 @@ Soy profesor/Desarrollador de Informática especializado en Frontend y Backend. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 
-  <!-- Backend y lenguajes -->
+  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
 
@@ -29,37 +29,23 @@ Soy profesor/Desarrollador de Informática especializado en Frontend y Backend. 
 
 ---
 
-## Estadísticas
+## 📊 Estadísticas
 
-<!-- Gráfico de lenguajes más usados -->
-<p>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose&langs_count=10&layout=compact&hide_border=true&theme=gruvbox"
-    alt="Most Used Languages (Top Langs)"
-  />
-</p>
+### 🔹 Most Used Languages (Top Langs)
+![Top Langs](https://JOSE.vercel.app/api/top-langs/?username=joseah2004&layout=compact&langs_count=10&hide_border=true&theme=gruvbox)
 
-<!-- Opcional: tarjetas de stats y streak -->
-<p>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=jose&show_icons=true&hide_title=true&hide_border=true&theme=gruvbox"
-    alt="GitHub Stats"
-  />
-</p>
+### 🔹 GitHub Stats
+![GitHub Stats](https://JOSE.vercel.app/api?username=joseah2004&show_icons=true&hide_title=true&hide_border=true&theme=gruvbox)
 
-<!-- Si usas el servicio de streak -->
-<p>
-  <img 
-    src="https://streak-stats.demolab.com?user=jose&hide_border=true&theme=gruvbox"
-    alt="GitHub Streak"
-  />
-</p>
+### 🔹 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=joseah2004&hide_border=true&theme=gruvbox)
 
 ---
 
-## Sobre mí
+## 👨‍💻 Sobre mí
 
-- **Rol:** Profesor/Desarrollador de Informática
-- **Stack principal:** Java, Spring, HTML/CSS, JavaScript
-- **Intereses:** Arquitecturas limpias, validación y mapeo precisos, despliegues reproducibles
+- **Rol:** Profesor/Desarrollador de Informática  
+- **Stack principal:** Java, Spring, HTML/CSS, JavaScript  
+- **Intereses:** Arquitecturas limpias, validación y mapeo precisos, despliegues reproducibles  
 - **Contacto:** [LinkedIn](https://www.linkedin.com/in/tu-perfil) • [Web](https://tu-dominio.com)
+
