@@ -64,7 +64,7 @@
 
 <br><br>
 ## 👨‍💻 SOBRE MI
-<div align="center">
+<div align="left">
 
 - **ROL:** Desarrollador de Aplicaciones Web  
 - **STACK PRINCIPAL:** Java · Spring · HTML/CSS · JavaScript · React · Angular  
