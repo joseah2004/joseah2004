@@ -7,7 +7,7 @@
 
 
 
-<br><br>
+<br>
 ## 🔧 LENGUAJES Y HERRAMIENTAS
 <br>
 <div align="center">
