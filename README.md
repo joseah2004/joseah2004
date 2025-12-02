@@ -58,3 +58,8 @@
 - **Stack principal:** Java, Spring, HTML/CSS, JavaScript, React, Angular  
 - **Intereses:** Arquitecturas limpias, validación y mapeo precisos, despliegues reproducibles  
 <br>
+
+## 🐍 Mi contribución convertida en Snake
+
+![GitHub Snake Light](https://raw.githubusercontent.com/joseah2004/joseah2004/output/snake-light.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/joseah2004/joseah2004/output/snake-dark.svg#gh-dark-mode-only)
