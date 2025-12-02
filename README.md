@@ -1,9 +1,5 @@
-# Hola 👋, Soy José
-
-Soy profesor y desarrollador de Informática especializado en Frontend y Backend. Me apasiona crear interfaces limpias y lógicas sólidas con validación robusta, y trabajar con arquitecturas bien estructuradas.
-
----
-
+# Hola 👋, Soy Jose A.H
+<br><br>
 ## 🔧 Languages and Tools
 
 <p align="left">
@@ -28,6 +24,7 @@ Soy profesor y desarrollador de Informática especializado en Frontend y Backend
 </p>
 
 ---
+<br><br>
 ## 📊 Estadísticas
 
 ### 🔹 Most Used Languages (Top Langs)
@@ -56,7 +53,7 @@ Soy profesor y desarrollador de Informática especializado en Frontend y Backend
 
 
 ---
-
+<br><br>
 ## 👨‍💻 Sobre mí
 
 - **Rol:** Desarrollador de Aplicaciones web  
