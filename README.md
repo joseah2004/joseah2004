@@ -1,12 +1,15 @@
+
+### Hola 👋, Soy Jose A H
+
+
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&pause=3000&color=800080,00FF66&center=true&vCenter=true&width=650&lines=Hi,+I'm+Jose+Antonio+Herrera" />
-  <p>Editando esto...</p>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&pause=3000&color=800080,00FF66&center=true&vCenter=true&width=650&lines=Desarrollador+de+Aplicaciones+Web;Desarrollador+de+Angular,+Spring+y+más...;Construyendo+soluciones+que+inspiran+🚀" />  <p>Editando esto...</p>
 </p>
 
 
 
 <br><br>
-## 🔧 Languages and Tools
+## 🔧 Lenguajes y Herramientas
 <br>
 <div align="center">
 <p>
@@ -33,7 +36,7 @@
 
 ## 📊 Estadísticas
 
-### 🔹 Most Used Languages (Top Langs)
+### 🔹 Lenguajes mas usados (Top languages)
 <br>
 <div align="center">
   
