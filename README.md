@@ -2,10 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&pause=3000&color=800080,00FF66&center=true&vCenter=true&width=650&lines=Hi,+I'm+Jose+Antonio+Herrera" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Web%20Application%20Developer-%2300FF66?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20%26%20React-%23800080?style=for-the-badge&logo=spring&logoColor=white" />
-</p>
+
 
 <br><br>
 ## 🔧 Languages and Tools
