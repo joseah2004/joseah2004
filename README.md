@@ -45,11 +45,10 @@
 
 
 ### 🔹 GitHub Streak
+### 🔹 GitHub Streak
 <br>
 <div align="center">
-  
-  <img src="https://streak-stats.demolab.com?user=joseah2004&theme=gruvbox&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=joseah2004&theme=gruvbox&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 
