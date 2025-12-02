@@ -31,14 +31,27 @@ Soy profesor y desarrollador de Informática especializado en Frontend y Backend
 
 ## 📊 Estadísticas
 
+<div align="center">
+
 ### 🔹 Most Used Languages (Top Langs)
-![Top Langs](https://JOSE.vercel.app/api/top-langs/?username=joseah2004&layout=compact&langs_count=10&hide_border=true&theme=gruvbox)
+<img 
+  src="https://JOSE.vercel.app/api/top-langs/?username=joseah2004&layout=compact&langs_count=10&hide_border=true&theme=gruvbox" 
+  alt="Top Langs"
+/>
 
 ### 🔹 GitHub Stats
-![GitHub Stats](https://JOSE.vercel.app/api?username=joseah2004&show_icons=true&hide_title=true&hide_border=true&theme=gruvbox)
+<img 
+  src="https://JOSE.vercel.app/api?username=joseah2004&show_icons=true&hide_title=true&hide_border=true&theme=gruvbox" 
+  alt="GitHub Stats"
+/>
 
 ### 🔹 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=joseah2004&hide_border=true&theme=gruvbox)
+<img 
+  src="https://streak-stats.demolab.com?user=joseah2004&hide_border=true&theme=gruvbox" 
+  alt="GitHub Streak"
+/>
+
+</div>
 
 ---
 
