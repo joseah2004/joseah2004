@@ -32,7 +32,7 @@
 <br>
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseah2004&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=joseah2004&layout=compact)
 
 </div>
 
@@ -40,7 +40,7 @@
 <br>
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joseah2004&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=joseah2004&show_icons=true)
 
 
 </div>
