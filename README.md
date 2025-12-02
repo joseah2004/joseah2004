@@ -1,6 +1,7 @@
 # Hola 👋, Soy Jose A.H
 <br><br>
 ## 🔧 Languages and Tools
+<br>
 <div align="center">
 <p>
   <!-- Contenedores -->
@@ -28,16 +29,19 @@
 ## 📊 Estadísticas
 
 ### 🔹 Most Used Languages (Top Langs)
+<br>
 <div align="center">
   <p>soon...</p>
 </div>
 
 ### 🔹 GitHub Stats
+<br>
 <div align="center">
   <p>soon...</p>
 </div>
 
 ### 🔹 GitHub Streak
+<br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=joseah2004&hide_border=true&theme=gruvbox" alt="GitHub Streak"/>
 </div>
@@ -48,7 +52,7 @@
 
 <br><br>
 ## 👨‍💻 Sobre mí
-
+<br>
 - **Rol:** Desarrollador de Aplicaciones web  
 - **Stack principal:** Java, Spring, HTML/CSS, JavaScript, React, Angular  
 - **Intereses:** Arquitecturas limpias, validación y mapeo precisos, despliegues reproducibles  
