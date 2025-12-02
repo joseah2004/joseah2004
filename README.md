@@ -31,23 +31,25 @@
 ## 📊 Estadísticas
 
 ### 🔹 Most Used Languages (Top Langs)
+<br>
 <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseah2004&layout=compact&theme=radical)
+  
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=joseah2004&layout=compact)
 
 </div>
+
 
 ### 🔹 GitHub Streak
+<br>
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=joseah2004&theme=radical&hide_border=true" alt="GitHub Streak"/>
-
+  <img src="https://streak-stats.demolab.com?user=joseah2004&hide_border=true&theme=gruvbox" alt="GitHub Streak"/>
 </div>
 
----
 
+
+<br><br>
 ## 👨‍💻 Sobre mí
-- 💼 **Rol:** Desarrollador de Aplicaciones Web  
-- 🛠️ **Stack principal:** Java, Spring, HTML/CSS, JavaScript, React, Angular  
-- 🎯 **Intereses:** Arquitecturas limpias, validación y mapeo precisos, despliegues reproducibles  
-- 🚀 **Objetivo:** Crear aplicaciones robustas y escalables con un diseño profesional  
+- **Rol:** Desarrollador de Aplicaciones web  
+- **Stack principal:** Java, Spring, HTML/CSS, JavaScript, React, Angular  
+- **Intereses:** Arquitecturas limpias, validación y mapeo precisos, despliegues reproducibles  
+<br>
