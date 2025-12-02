@@ -33,15 +33,14 @@
 </div>
 <br><br>
 
-## 📊 Estadísticas
-
 <div align="center">
 
-|    Lenguajes usados     |   GitHub Streak  |
-|-------------------------|------------------|
+| LENGUAJES USADOS | GITHUB STREAK |
+|------------------|---------------|
 | ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=joseah2004&layout=compact&theme=tokyonight) | <img src="https://github-readme-streak-stats.herokuapp.com?user=joseah2004&theme=gruvbox&hide_border=true&border_radius=10" alt="GitHub Streak"/> |
 
 </div>
+
 
 
 
@@ -52,6 +51,7 @@
 - **Stack principal:** Java, Spring, HTML/CSS, JavaScript, React, Angular  
 - **Intereses:** Arquitecturas limpias, validación y mapeo precisos, despliegues reproducibles  
 <br><br>
+
 
 <div align="center">
   
