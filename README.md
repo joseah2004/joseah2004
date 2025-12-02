@@ -56,11 +56,8 @@
 - **Rol:** Desarrollador de Aplicaciones web  
 - **Stack principal:** Java, Spring, HTML/CSS, JavaScript, React, Angular  
 - **Intereses:** Arquitecturas limpias, validación y mapeo precisos, despliegues reproducibles  
-<br>
+<br><br>
 
-## 🐍 Mi contribución convertida en Snake
-
-
-![Visitor Count](https://komarev.com/ghpvc/?username=joseah2004&color=blue)
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
