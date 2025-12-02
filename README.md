@@ -62,9 +62,9 @@
 ## 👨‍💻 SOBRE MI
 <div align="left">
 
-- **ROL:** : Desarrollador de Aplicaciones Web  
-- **STACK PRINCIPAL:** : Java · Spring · HTML/CSS · JavaScript · React · Angular  
-- **INTERESES:** Arquitecturas limpias : Arquitecturas limpias, validación y mapeos precisos
+- **ROL : ** Desarrollador de Aplicaciones Web  
+- **STACK PRINCIPAL : ** Java · Spring · HTML/CSS · JavaScript · React · Angular  
+- **INTERESES : ** Arquitecturas limpias, validación y mapeos precisos
 
 </div>
 
