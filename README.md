@@ -25,19 +25,18 @@
 </div>
 <br><br>
 
-[## 📊 Estadísticas
+## 📊 Estadísticas
 
 ### 🔹 Most Used Languages (Top Langs)
-### 🔹 Most Used Languages (Top Langs)
 <div align="center">
-  <img src="https://github-readme-stats-jose.vercel.app/api/top-langs/?username=joseah2004&layout=compact&langs_count=10&hide_border=true&theme=gruvbox&hide=xslt,xquery" alt="Top Langs"/>
+  <p>soon...</p>
 </div>
 
 ### 🔹 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-jose.vercel.app/api?username=joseah2004&show_icons=true&hide_title=true&hide_border=true&theme=gruvbox" alt="GitHub Stats"/>
+  <p>soon...</p>
 </div>
-](url)
+
 ### 🔹 GitHub Streak
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=joseah2004&hide_border=true&theme=gruvbox" alt="GitHub Streak"/>
