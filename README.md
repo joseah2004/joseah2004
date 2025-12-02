@@ -31,9 +31,8 @@
 ### 🔹 Most Used Languages (Top Langs)
 <br>
 <div align="center">
-  <p>soon...</p>
-  
-  ![Top Langs](https://github-readme-stats-git-master-org.vercel.app/api/top-langs/?username=joseah2004&layout=compact&theme=dark&border_radius=10)
+ ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=joseah2004&layout=compact)
+
 </div>
 
 ### 🔹 GitHub Stats
