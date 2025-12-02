@@ -8,7 +8,9 @@
 
 
 <br>
+
 ## 🔧 LENGUAJES Y HERRAMIENTAS
+
 <br>
 <div align="center">
 <p>
