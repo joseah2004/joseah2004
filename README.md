@@ -1,39 +1,65 @@
-# Hola, soy Jose A.H 👌
+# Hola 👋, Soy José
 
-
----
-
-### 🛠️ Tecnologías que uso:
-
-<div align="center">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-</div>
-<br><br>
+Soy profesor/Desarrollador de Informática especializado en Frontend y Backend. Me apasiona crear interfaces limpias y lógicas sólidas con validación robusta, y trabajar con arquitecturas bien estructuradas.
 
 ---
 
-### 📊 Estadísticas:
-<div align="center">
+## Languages and Tools:
 
-![Top Langs](https://github-readme-stats-joseah2004.vercel.app/api/top-langs/?username=joseah2004&layout=compact&langs_count=10)
+<p align="left">
+  <!-- Contenedores -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 
-</div>
+  <!-- Backend y lenguajes -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
 
-<br><br>
+  <!-- Bases de datos -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
+</p>
 
 ---
 
-## 🚀 Proyectos destacados
-- [tiendaHSN-Node-React](https://github.com/joseah2004/tiendaHSN-Node-React) – Tienda online con backend en Node.js y frontend en React.
-- [proyectoAngular](https://github.com/joseah2004/proyectoAngular) – Proyecto en Angular con diseño responsive.
-- [Spring]
+## Estadísticas
 
-<br><br>
+<!-- Gráfico de lenguajes más usados -->
+<p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose&langs_count=10&layout=compact&hide_border=true&theme=gruvbox"
+    alt="Most Used Languages (Top Langs)"
+  />
+</p>
+
+<!-- Opcional: tarjetas de stats y streak -->
+<p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=jose&show_icons=true&hide_title=true&hide_border=true&theme=gruvbox"
+    alt="GitHub Stats"
+  />
+</p>
+
+<!-- Si usas el servicio de streak -->
+<p>
+  <img 
+    src="https://streak-stats.demolab.com?user=jose&hide_border=true&theme=gruvbox"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## Sobre mí
+
+- **Rol:** Profesor/Desarrollador de Informática
+- **Stack principal:** Java, Spring, HTML/CSS, JavaScript
+- **Intereses:** Arquitecturas limpias, validación y mapeo precisos, despliegues reproducibles
+- **Contacto:** [LinkedIn](https://www.linkedin.com/in/tu-perfil) • [Web](https://tu-dominio.com)
