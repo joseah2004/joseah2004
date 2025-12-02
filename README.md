@@ -22,7 +22,8 @@
 ### 📊 Estadísticas:
 <div align="center">
 
-<img src="https://TU-URL.vercel.app/api/top-langs/?username=joseah2004&layout=compact&langs_count=6&theme=radical" />
+![Top Langs](https://TU_DEPLOY.vercel.app/api/top-langs/?username=joseah2004&layout=compact&langs_count=10)
+
 </div>
 
 <br><br>
