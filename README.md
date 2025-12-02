@@ -1,10 +1,5 @@
 # Hola 👋, Soy Jose A.H
-<p align="center">
-  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=5500&color=00FF66,FF0000,0000FF,FFA500&center=true&vCenter=true&width=650&lines=Jose+Antonio+Herrera;Web+Application+Developer;Spring+%26+React+Developer+and+much+more" />
-</p>
-
-</p>
+   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=5500&color=00FF66,FF0000,0000FF,FFA500&center=true&vCenter=true&width=650&lines=Hoseantonio+Herrera;Web+Application+Developer;Spring+%26+React+Developer+and+much+more" />
 
 <br><br>
 ## 🔧 Languages and Tools
