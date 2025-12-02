@@ -1,8 +1,11 @@
   <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=5500&color=0000FF&center=false&vCenter=true&width=650&lines=Jose+Antonio+Herrera" />
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=5500&color=00FF66&center=false&vCenter=true&width=650&lines=Web+Application+Developer" />
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=5500&color=800080&center=false&vCenter=true&width=650&lines=Spring+%26+React+Developer+and+much+more" />
+  <!-- Texto en morado -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=800080&center=false&vCenter=true&width=400&lines=Jose+Antonio+Herrera" style="display:inline;" />
+  
+  <!-- El mismo texto en verde -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FF66&center=false&vCenter=true&width=400&lines=Jose+Antonio+Herrera" style="display:inline;" />
 </p>
+
 
 <br><br>
 ## 🔧 Languages and Tools
