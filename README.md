@@ -25,7 +25,7 @@
 </div>
 <br><br>
 
-### 📊 Estadísticas
+## 📊 Estadísticas
 
 ### 🔹 Most Used Languages (Top Langs)
 ### 🔹 Most Used Languages (Top Langs)
