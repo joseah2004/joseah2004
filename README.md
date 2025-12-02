@@ -23,7 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
 </p>
 
----
 <br><br>
 ## 📊 Estadísticas
 
@@ -52,7 +51,7 @@
 </div>
 
 
----
+
 <br><br>
 ## 👨‍💻 Sobre mí
 
