@@ -1,9 +1,5 @@
   <p align="left">
-  <!-- Texto en morado -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=800080&center=false&vCenter=true&width=400&lines=Jose+Antonio+Herrera" style="display:inline;" />
-  
-  <!-- El mismo texto en verde -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FF66&center=false&vCenter=true&width=400&lines=Jose+Antonio+Herrera" style="display:inline;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&pause=3000&color=800080&center=false&vCenter=true&width=650&lines=Jose+Antonio+Herrera;Hi,+I'm+Jose+Antonio+Herrera" />
 </p>
 
 
