@@ -44,8 +44,7 @@ Soy profesor y desarrollador de Informática especializado en Frontend y Backend
 
 ## 👨‍💻 Sobre mí
 
-- **Rol:** Profesor/Desarrollador de Informática  
-- **Stack principal:** Java, Spring, HTML/CSS, JavaScript  
+- **Rol:** Desarrollador de Aplicaciones web  
+- **Stack principal:** Java, Spring, HTML/CSS, JavaScript, React, Angular  
 - **Intereses:** Arquitecturas limpias, validación y mapeo precisos, despliegues reproducibles  
-- **Contacto:** [LinkedIn](https://www.linkedin.com/in/tu-perfil) • [Web](https://tu-dominio.com)
 
