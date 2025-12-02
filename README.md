@@ -47,7 +47,7 @@
 <br>
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=joseah2004&theme=gruvbox&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
   
 </div>
 
