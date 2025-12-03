@@ -50,12 +50,22 @@
 <br>
 <div align="center">
 
-| LENGUAJES USADOS | GITHUB STREAK |
-|------------------|---------------|
-| ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=joseah2004&layout=compact&theme=tokyonight) | ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=joseah2004&theme=gruvbox&hide_border=true) |
+<table>
+  <tr>
+    <th>LENGUAJES USADOS</th>
+    <th>CONTRIBUCIONES</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=joseah2004&layout=compact&theme=tokyonight" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseah2004&theme=gruvbox&hide_border=true" width="400"/>
+    </td>
+  </tr>
+</table>
 
 </div>
-
 
 <br><br>
 ## 👨‍💻 SOBRE MI
