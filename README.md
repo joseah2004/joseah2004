@@ -52,7 +52,7 @@
 
 | LENGUAJES USADOS | GITHUB STREAK |
 |------------------|---------------|
-| ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=joseah2004&layout=compact&theme=tokyonight) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joseah2004&show_icons=true&theme=gruvbox&hide_border=true&border_radius=10 |
+| ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=joseah2004&layout=compact&theme=tokyonight) | ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=joseah2004&theme=gruvbox&hide_border=true) |
 
 </div>
 
