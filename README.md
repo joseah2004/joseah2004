@@ -47,9 +47,10 @@
 
 <div align="center">
 
-![Random Meme](https://random-memer.herokuapp.com/)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A020F0&size=26&center=true&vCenter=true&width=600&lines=Gracias+por+visitar+mi+perfil+💜;Siempre+aprendiendo+y+creciendo+🚀;Conectemos+y+creemos+algo+increíble+✨)
 
 </div>
+
 
 
 
